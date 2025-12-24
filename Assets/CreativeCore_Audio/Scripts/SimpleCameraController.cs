@@ -2,6 +2,8 @@
 using UnityEngine.InputSystem;
 #endif
 
+/// <summary>
+/// Simple Camera Controller script to control a camera in 3D space.
 using UnityEngine;
 
 namespace UnityTemplateProjects
