@@ -11,6 +11,8 @@ public class FootstepManager : MonoBehaviour
     public List<AudioClip> waterSteps = new List<AudioClip>();
     public List<AudioClip> caveSteps = new List<AudioClip>();
 
+/// <summary>
+/// Different surface types for footstep sounds.
     private enum Surface { grass, water, cave};
     private Surface surface;
 
